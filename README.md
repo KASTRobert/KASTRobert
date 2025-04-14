@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KASTRobert
-- 👀 I’m interested in testautomation, linux, python3 and computer vision
-- 🌱 I’m currently learning docker and cv
-- 💞️ I’m looking to collaborate on testautomation 
+- This is my training ground for learning git
+-  
 - 📫 How to reach me:  trobert@schmersal.com 
 
 <!---
